@@ -13,6 +13,7 @@ This project performs an exploratory data analysis on the Lagos Healthcare datas
 
 ### Files Included
 * **Project_2_EDA.ipynb**: Full analysis process, data visualization and correlation matrix.
+* **Project_2_EDA.pdf**: PDF export of the analysis notebook.
 * **Project_2_EDA_Report.pdf**: Detailed summary of findings and business recommendations.
 
 ### Recommendations
